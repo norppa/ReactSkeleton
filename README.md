@@ -2,7 +2,13 @@
 
 This is a bare bones React project that can be used as a basis for new projects without the use of create-react-app.
 
-# Project creation
+## Gettin started
+
+* First, update the project to latest versions by running "npm run update".
+* Update package.json to correspond to your current project name, git repo etc.
+* Change the page title from app/index.html and get coding.
+
+## Project creation
 
 * create project folder
     * mkdir ReactSkeleton
